@@ -1,0 +1,11 @@
+version: 1
+datastore: 
+  user: 'user'
+  password: 'password'
+  hostname: 'acit-3855-mysql-kafka.francecentral.cloudapp.azure.com'
+  port: 3306
+  db: 'bookstore'
+events:
+  hostname: acit-3855-mysql-kafka.francecentral.cloudapp.azure.com
+  port: 9092
+  topic: events

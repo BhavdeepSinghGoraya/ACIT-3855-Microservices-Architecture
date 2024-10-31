@@ -1,0 +1,48 @@
+{
+    "num_buying": 37,
+    "recent_buy": [
+        {
+            "msg_data": "Book 2376 named Atomic Habits was brought for 31",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 2229 named Atomic Habits was brought for 13",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 805 named Atomic Habits was brought for 10",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 1082 named Atomic Habits was brought for 27",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 978 named Atomic Habits was brought for 12",
+            "received_timestamp": "2024-09-19 09:50:26"
+        }
+    ],
+    "num_selling": 31,
+    "recent_sell": [
+        {
+            "msg_data": "Book 2955 named The Psychology of Money was sold for 26",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 392 named The Psychology of Money was sold for 6",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 110 named The Psychology of Money was sold for 31",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 397 named The Psychology of Money was sold for 19",
+            "received_timestamp": "2024-09-19 09:50:26"
+        },
+        {
+            "msg_data": "Book 1366 named The Psychology of Money was sold for 21",
+            "received_timestamp": "2024-09-19 09:50:26"
+        }
+    ]
+}

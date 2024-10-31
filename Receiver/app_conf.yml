@@ -1,0 +1,9 @@
+version: 1
+buy:
+  url: http://localhost:8090/books/buy
+sell:
+  url: http://localhost:8090/books/sell
+events:
+  hostname: acit-3855-mysql-kafka.francecentral.cloudapp.azure.com
+  port: 9092
+  topic: events

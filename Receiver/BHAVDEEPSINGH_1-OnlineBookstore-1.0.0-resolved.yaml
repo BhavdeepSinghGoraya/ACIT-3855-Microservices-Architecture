@@ -1,0 +1,119 @@
+openapi: 3.0.0
+info:
+  title: OnlineBookstore API
+  description: This API receives buying and selling events
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+  version: 1.0.0
+tags:
+- name: users
+  description: Operations available to user of the site
+paths:
+  /books/buy:
+    post:
+      tags:
+      - user
+      summary: creates an instance in the system when a book is purchased
+      description: |
+        Adds an purchase event to system
+      operationId: app.book_buy
+      requestBody:
+        description: record for purhase to add.
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/buying'
+      responses:
+        "200":
+          description: item created
+        "400":
+          description: "invalid input, object invalid"
+  /books/sell:
+    post:
+      tags:
+      - books
+      summary: adds a book to system for sale
+      description: Adds a book to the system for sale
+      operationId: app.book_sell
+      requestBody:
+        description: book to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/selling'
+      responses:
+        "201":
+          description: item created
+        "400":
+          description: "invalid input, object invalid"
+        "409":
+          description: an existing item already exists
+components:
+  schemas:
+    buying:
+      required:
+      - book_id
+      - name
+      - order_id
+      - price
+      - sold
+      - user_id
+      type: object
+      properties:
+        order_id:
+          type: string
+          format: uuid
+        book_id:
+          type: integer
+          example: 4856
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Atomic Habits
+        price:
+          type: number
+          format: float
+          example: 9.99
+        sold:
+          type: boolean
+          example: true
+        trace_id:
+          type: string
+          format: uuid
+    selling:
+      required:
+      - book_id
+      - genre
+      - listing_date
+      - name
+      - price
+      - user_id
+      type: object
+      properties:
+        book_id:
+          type: integer
+          example: 3168
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: The Psychology of Money
+        listing_date:
+          type: string
+          format: date-time
+          example: 2024-06-29T09:12:33.001Z
+        price:
+          type: number
+          format: float
+          example: 19.99
+        genre:
+          type: string
+          example: Non-Fiction
+        trace_id:
+          type: string
+          format: uuid

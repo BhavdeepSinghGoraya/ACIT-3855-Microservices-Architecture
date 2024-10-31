@@ -1,0 +1,1478 @@
+2024-10-03 21:38:34,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:38:36,317 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:38:38,326 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:38:39,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:38:41,302 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:38:43,313 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:38:44,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:38:46,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:38:48,308 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:38:49,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:38:51,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:38:53,307 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:38:54,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:38:56,308 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:38:58,318 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:38:59,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:01,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:03,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:04,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:06,297 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:08,315 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:09,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:11,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:13,306 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:14,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:16,297 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:18,307 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:19,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:21,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:23,323 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:24,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:26,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:28,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:29,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:31,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:33,310 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:34,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:36,303 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:38,316 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:39,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:41,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:43,310 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:44,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:46,304 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:48,313 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:49,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:51,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:53,308 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:54,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:39:56,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:39:58,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:39:59,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:01,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:03,311 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:04,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:06,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:08,311 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:09,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:11,303 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:13,311 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:14,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:16,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:18,306 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:19,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:21,332 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:23,340 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:24,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:26,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:28,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:29,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:31,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:33,310 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:34,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:36,302 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:38,315 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:39,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:41,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:43,307 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:44,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:46,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:48,307 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:49,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:51,298 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:53,306 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:54,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:40:56,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:40:58,312 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:40:59,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:01,297 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:03,306 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:04,292 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:06,311 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:08,326 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:09,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:11,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:13,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:14,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:16,298 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:18,307 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:19,289 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:21,298 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:23,308 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:24,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:26,301 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:28,311 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:29,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:31,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:33,309 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:34,290 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:36,300 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:38,310 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:39,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:41,299 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:43,308 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:41:44,291 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:41:46,303 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:41:48,310 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:42:51,286 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:42:53,302 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:42:55,313 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:42:56,284 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:42:58,293 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:00,303 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:01,284 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:03,294 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:05,304 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:06,285 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:08,293 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:10,302 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:11,284 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:13,293 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:15,303 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:16,284 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:18,291 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:20,302 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:21,284 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:23,291 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:25,300 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:33,532 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:35,548 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:37,558 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:38,532 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:40,540 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:42,550 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:43,531 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:45,541 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:47,549 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:43:48,532 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:43:50,541 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-03 21:43:52,551 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-03 21:52:53,671 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:52:57,733 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:52:57,733 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:52:57,735 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:52:53'}
+2024-10-03 21:52:58,670 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:02,739 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:02,740 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:02,741 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 204, 'max_buy_price': 56.99, 'num_sell_events': 200, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:52:58'}
+2024-10-03 21:53:03,671 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:07,767 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:07,768 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:07,769 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 306, 'max_buy_price': 56.99, 'num_sell_events': 300, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:03'}
+2024-10-03 21:53:08,670 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:12,751 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:12,751 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:12,753 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 408, 'max_buy_price': 56.99, 'num_sell_events': 400, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:08'}
+2024-10-03 21:53:13,670 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:17,735 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:17,736 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:17,736 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 510, 'max_buy_price': 56.99, 'num_sell_events': 500, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:13'}
+2024-10-03 21:53:18,671 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:22,746 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:22,748 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:22,749 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 612, 'max_buy_price': 56.99, 'num_sell_events': 600, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:18'}
+2024-10-03 21:53:23,671 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:27,741 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:27,741 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:27,742 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 714, 'max_buy_price': 56.99, 'num_sell_events': 700, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:23'}
+2024-10-03 21:53:28,671 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:53:32,757 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:53:32,757 - basicLogger - ERROR - Failed to get data. Status code: 200
+2024-10-03 21:53:32,758 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 816, 'max_buy_price': 56.99, 'num_sell_events': 800, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T11:03:00', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:17,433 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:21,498 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:58:21,500 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:17', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:22,432 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:26,471 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:58:26,473 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:22', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:27,432 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:31,466 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:58:31,467 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:27', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:32,432 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:36,466 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:58:36,468 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:32', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:37,435 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:41,477 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:58:41,478 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:37', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:58:42,432 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:58:46,475 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:58:46,476 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 918, 'max_buy_price': 56.99, 'num_sell_events': 900, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:58:42', 'listing_data': '2024-10-03T21:53:28'}
+2024-10-03 21:59:04,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:08,739 - basicLogger - INFO - Total 202 events received
+2024-10-03 21:59:08,740 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:04'}
+2024-10-03 21:59:09,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:13,730 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:13,731 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:09'}
+2024-10-03 21:59:14,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:18,731 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:18,733 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:14'}
+2024-10-03 21:59:19,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:23,718 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:23,719 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:19'}
+2024-10-03 21:59:24,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:28,717 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:28,719 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:24'}
+2024-10-03 21:59:29,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:33,720 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:33,722 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:29'}
+2024-10-03 21:59:34,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:38,755 - basicLogger - INFO - Total 0 events received
+2024-10-03 21:59:38,756 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 102, 'max_buy_price': 56.99, 'num_sell_events': 100, 'max_sell_price': 50.45, 'last_updated': '2024-10-03T21:59:34'}
+2024-10-03 21:59:39,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:43,730 - basicLogger - INFO - Total 20 events received
+2024-10-03 21:59:43,731 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 112, 'max_buy_price': 44.27, 'num_sell_events': 110, 'max_sell_price': 50.29, 'last_updated': '2024-10-03T21:59:39'}
+2024-10-03 21:59:44,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:48,733 - basicLogger - INFO - Total 20 events received
+2024-10-03 21:59:48,734 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 122, 'max_buy_price': 48.17, 'num_sell_events': 120, 'max_sell_price': 31.21, 'last_updated': '2024-10-03T21:59:44'}
+2024-10-03 21:59:49,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:53,742 - basicLogger - INFO - Total 29 events received
+2024-10-03 21:59:53,747 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 141, 'max_buy_price': 50.7, 'num_sell_events': 130, 'max_sell_price': 43.49, 'last_updated': '2024-10-03T21:59:49'}
+2024-10-03 21:59:54,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 21:59:58,746 - basicLogger - INFO - Total 21 events received
+2024-10-03 21:59:58,749 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 152, 'max_buy_price': 50.45, 'num_sell_events': 140, 'max_sell_price': 50.14, 'last_updated': '2024-10-03T21:59:54'}
+2024-10-03 21:59:59,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:03,720 - basicLogger - INFO - Total 26 events received
+2024-10-03 22:00:03,721 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 162, 'max_buy_price': 49.33, 'num_sell_events': 156, 'max_sell_price': 48.1, 'last_updated': '2024-10-03T21:59:59'}
+2024-10-03 22:00:04,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:08,728 - basicLogger - INFO - Total 24 events received
+2024-10-03 22:00:08,730 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 172, 'max_buy_price': 48.32, 'num_sell_events': 170, 'max_sell_price': 50.47, 'last_updated': '2024-10-03T22:00:04'}
+2024-10-03 22:00:09,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:13,724 - basicLogger - INFO - Total 23 events received
+2024-10-03 22:00:13,727 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 185, 'max_buy_price': 42.49, 'num_sell_events': 180, 'max_sell_price': 43.48, 'last_updated': '2024-10-03T22:00:09'}
+2024-10-03 22:00:14,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:18,724 - basicLogger - INFO - Total 27 events received
+2024-10-03 22:00:18,725 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 190, 'max_sell_price': 41.11, 'last_updated': '2024-10-03T22:00:14'}
+2024-10-03 22:00:19,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:23,721 - basicLogger - INFO - Total 10 events received
+2024-10-03 22:00:23,722 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-03T22:00:19'}
+2024-10-03 22:00:24,680 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:28,716 - basicLogger - INFO - Total 0 events received
+2024-10-03 22:00:28,717 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-03T22:00:24'}
+2024-10-03 22:00:29,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:33,718 - basicLogger - INFO - Total 0 events received
+2024-10-03 22:00:33,721 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-03T22:00:29'}
+2024-10-03 22:00:34,681 - basicLogger - INFO - Periodic processing has started
+2024-10-03 22:00:38,718 - basicLogger - INFO - Total 0 events received
+2024-10-03 22:00:38,720 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-03T22:00:34'}
+2024-10-10 09:02:33,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:02:37,933 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:02:37,934 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:33'}
+2024-10-10 09:02:38,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:02:42,773 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:02:42,775 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:38'}
+2024-10-10 09:02:43,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:02:47,783 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:02:47,786 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:43'}
+2024-10-10 09:02:48,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:02:52,776 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:02:52,777 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:48'}
+2024-10-10 09:02:53,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:02:57,773 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:02:57,775 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:53'}
+2024-10-10 09:02:58,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:02,772 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:02,774 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:02:58'}
+2024-10-10 09:03:03,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:07,771 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:07,772 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:03'}
+2024-10-10 09:03:08,742 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:12,781 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:12,782 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:08'}
+2024-10-10 09:03:13,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:17,784 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:17,785 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:13'}
+2024-10-10 09:03:18,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:22,773 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:22,774 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:18'}
+2024-10-10 09:03:23,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:27,769 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:27,771 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:23'}
+2024-10-10 09:03:28,741 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:32,777 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:32,778 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:28'}
+2024-10-10 09:03:33,738 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:37,774 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:37,775 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:33'}
+2024-10-10 09:03:38,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:42,770 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:42,771 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:38'}
+2024-10-10 09:03:43,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:47,777 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:47,779 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:43'}
+2024-10-10 09:03:48,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:52,807 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:52,808 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:48'}
+2024-10-10 09:03:53,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:03:57,780 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:03:57,783 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:53'}
+2024-10-10 09:03:58,738 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:02,783 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:02,783 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:03:58'}
+2024-10-10 09:04:03,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:07,780 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:07,781 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:03'}
+2024-10-10 09:04:08,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:12,796 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:12,798 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:08'}
+2024-10-10 09:04:13,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:17,777 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:17,778 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:13'}
+2024-10-10 09:04:18,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:22,779 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:22,780 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:18'}
+2024-10-10 09:04:23,741 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:27,783 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:27,784 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:23'}
+2024-10-10 09:04:28,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:32,775 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:32,776 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:28'}
+2024-10-10 09:04:33,738 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:37,776 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:37,776 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:33'}
+2024-10-10 09:04:38,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:42,779 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:42,780 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:38'}
+2024-10-10 09:04:43,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:47,781 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:47,781 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:43'}
+2024-10-10 09:04:48,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:52,788 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:52,789 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:48'}
+2024-10-10 09:04:53,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:04:57,778 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:04:57,779 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:53'}
+2024-10-10 09:04:58,738 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:05:02,775 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:05:02,776 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:04:58'}
+2024-10-10 09:05:03,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:05:07,794 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:05:07,796 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:05:03'}
+2024-10-10 09:05:08,740 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:05:12,790 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:05:12,791 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:05:08'}
+2024-10-10 09:05:13,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:05:17,789 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:05:17,791 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:05:13'}
+2024-10-10 09:05:18,739 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:05:22,821 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:05:22,823 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:05:18'}
+2024-10-10 09:15:16,427 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:20,503 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:15:20,504 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:15:16'}
+2024-10-10 09:15:21,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:25,464 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:15:25,466 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 202, 'max_buy_price': 47.18, 'num_sell_events': 200, 'max_sell_price': 48.47, 'last_updated': '2024-10-10T09:15:21'}
+2024-10-10 09:15:26,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:30,493 - basicLogger - INFO - Total 20 events received
+2024-10-10 09:15:30,495 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 212, 'max_buy_price': 46.47, 'num_sell_events': 210, 'max_sell_price': 48.17, 'last_updated': '2024-10-10T09:15:26'}
+2024-10-10 09:15:31,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:35,474 - basicLogger - INFO - Total 22 events received
+2024-10-10 09:15:35,475 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 224, 'max_buy_price': 45.4, 'num_sell_events': 220, 'max_sell_price': 50.19, 'last_updated': '2024-10-10T09:15:31'}
+2024-10-10 09:15:36,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:40,504 - basicLogger - INFO - Total 28 events received
+2024-10-10 09:15:40,506 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 242, 'max_buy_price': 50.33, 'num_sell_events': 230, 'max_sell_price': 50.11, 'last_updated': '2024-10-10T09:15:36'}
+2024-10-10 09:15:41,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:45,471 - basicLogger - INFO - Total 20 events received
+2024-10-10 09:15:45,472 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 252, 'max_buy_price': 38.1, 'num_sell_events': 240, 'max_sell_price': 50.35, 'last_updated': '2024-10-10T09:15:41'}
+2024-10-10 09:15:46,427 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:50,470 - basicLogger - INFO - Total 30 events received
+2024-10-10 09:15:50,471 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 262, 'max_buy_price': 50.4, 'num_sell_events': 260, 'max_sell_price': 49.5, 'last_updated': '2024-10-10T09:15:46'}
+2024-10-10 09:15:51,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:15:55,489 - basicLogger - INFO - Total 20 events received
+2024-10-10 09:15:55,490 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 272, 'max_buy_price': 45.44, 'num_sell_events': 270, 'max_sell_price': 50.35, 'last_updated': '2024-10-10T09:15:51'}
+2024-10-10 09:15:56,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:00,468 - basicLogger - INFO - Total 25 events received
+2024-10-10 09:16:00,469 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 287, 'max_buy_price': 49.16, 'num_sell_events': 280, 'max_sell_price': 43.26, 'last_updated': '2024-10-10T09:15:56'}
+2024-10-10 09:16:01,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:05,471 - basicLogger - INFO - Total 25 events received
+2024-10-10 09:16:05,472 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 290, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:16:01'}
+2024-10-10 09:16:06,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:10,464 - basicLogger - INFO - Total 10 events received
+2024-10-10 09:16:10,465 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:06'}
+2024-10-10 09:16:11,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:15,467 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:15,468 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:11'}
+2024-10-10 09:16:16,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:20,476 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:20,478 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:16'}
+2024-10-10 09:16:21,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:25,472 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:25,475 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:21'}
+2024-10-10 09:16:26,427 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:30,466 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:30,467 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:26'}
+2024-10-10 09:16:31,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:35,468 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:35,469 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:31'}
+2024-10-10 09:16:36,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:40,481 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:40,483 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:36'}
+2024-10-10 09:16:41,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:45,469 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:45,470 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:41'}
+2024-10-10 09:16:46,426 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:50,463 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:50,464 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:46'}
+2024-10-10 09:16:51,427 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:16:55,476 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:16:55,477 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:51'}
+2024-10-10 09:16:56,427 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:00,461 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:00,462 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:16:56'}
+2024-10-10 09:17:01,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:05,459 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:05,460 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:17:01'}
+2024-10-10 09:17:06,425 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:10,459 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:10,460 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 302, 'max_buy_price': 49.2, 'num_sell_events': 300, 'max_sell_price': 39.24, 'last_updated': '2024-10-10T09:17:06'}
+2024-10-10 09:17:23,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:27,410 - basicLogger - INFO - Total 200 events received
+2024-10-10 09:17:27,412 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:23'}
+2024-10-10 09:17:28,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:32,405 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:32,406 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:28'}
+2024-10-10 09:17:33,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:37,398 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:37,399 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:33'}
+2024-10-10 09:17:38,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:42,397 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:42,398 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:38'}
+2024-10-10 09:17:43,351 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:47,388 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:47,390 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:43'}
+2024-10-10 09:17:48,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:52,394 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:52,395 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:48'}
+2024-10-10 09:17:53,351 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:17:57,401 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:17:57,402 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:53'}
+2024-10-10 09:17:58,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:18:02,393 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:18:02,393 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:17:58'}
+2024-10-10 09:18:03,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:18:07,388 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:18:07,389 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:18:03'}
+2024-10-10 09:18:08,352 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:18:12,389 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:18:12,390 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:18:08'}
+2024-10-10 09:18:57,013 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:19:01,119 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:19:01,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:18:57'}
+2024-10-10 09:19:02,012 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:19:06,064 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:19:06,065 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.46, 'last_updated': '2024-10-10T09:19:02'}
+2024-10-10 09:19:19,842 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:19:23,880 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:19:23,882 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:19:19'}
+2024-10-10 09:19:24,839 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:19:28,878 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:19:28,880 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:19:24'}
+2024-10-10 09:35:35,920 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:35:40,004 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:35:40,005 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:35:35'}
+2024-10-10 09:35:40,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:35:44,985 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:35:44,986 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:35:40'}
+2024-10-10 09:35:45,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:35:49,981 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:35:49,983 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:35:45'}
+2024-10-10 09:35:50,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:35:54,961 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:35:54,961 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:35:50'}
+2024-10-10 09:35:55,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:35:59,956 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:35:59,958 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:35:55'}
+2024-10-10 09:36:00,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:04,957 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:04,958 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:00'}
+2024-10-10 09:36:05,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:09,959 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:09,960 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:05'}
+2024-10-10 09:36:10,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:14,955 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:14,956 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:10'}
+2024-10-10 09:36:15,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:19,977 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:19,978 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:15'}
+2024-10-10 09:36:20,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:24,961 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:24,962 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:20'}
+2024-10-10 09:36:25,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:29,964 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:29,965 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:25'}
+2024-10-10 09:36:30,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:34,957 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:34,958 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:30'}
+2024-10-10 09:36:35,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:39,972 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:39,974 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:35'}
+2024-10-10 09:36:40,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:41,783 - basicLogger - INFO - Get stats request has started
+2024-10-10 09:36:41,784 - basicLogger - DEBUG - Statistics response: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:35'}
+2024-10-10 09:36:41,785 - basicLogger - INFO - Get stats request has completed
+2024-10-10 09:36:44,956 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:44,956 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:40'}
+2024-10-10 09:36:45,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:49,957 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:49,957 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:45'}
+2024-10-10 09:36:50,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:54,959 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:54,960 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:50'}
+2024-10-10 09:36:55,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:36:59,960 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:36:59,961 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:36:55'}
+2024-10-10 09:37:00,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:04,973 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:37:04,974 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T09:37:00'}
+2024-10-10 09:37:05,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:09,959 - basicLogger - INFO - Total 19 events received
+2024-10-10 09:37:09,960 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 10, 'max_buy_price': 46.48, 'num_sell_events': 9, 'max_sell_price': 35.29, 'last_updated': '2024-10-10T09:37:05'}
+2024-10-10 09:37:10,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:14,958 - basicLogger - INFO - Total 21 events received
+2024-10-10 09:37:14,959 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 20, 'max_buy_price': 46.45, 'num_sell_events': 20, 'max_sell_price': 46.22, 'last_updated': '2024-10-10T09:37:10'}
+2024-10-10 09:37:15,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:19,989 - basicLogger - INFO - Total 26 events received
+2024-10-10 09:37:19,992 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 36, 'max_buy_price': 50.32, 'num_sell_events': 30, 'max_sell_price': 50.33, 'last_updated': '2024-10-10T09:37:15'}
+2024-10-10 09:37:20,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:24,963 - basicLogger - INFO - Total 24 events received
+2024-10-10 09:37:24,964 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 50, 'max_buy_price': 50.19, 'num_sell_events': 40, 'max_sell_price': 45.18, 'last_updated': '2024-10-10T09:37:20'}
+2024-10-10 09:37:25,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:29,959 - basicLogger - INFO - Total 23 events received
+2024-10-10 09:37:29,961 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 60, 'max_buy_price': 48.29, 'num_sell_events': 53, 'max_sell_price': 47.26, 'last_updated': '2024-10-10T09:37:25'}
+2024-10-10 09:37:30,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:34,967 - basicLogger - INFO - Total 27 events received
+2024-10-10 09:37:34,969 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 70, 'max_buy_price': 48.28, 'num_sell_events': 70, 'max_sell_price': 49.23, 'last_updated': '2024-10-10T09:37:30'}
+2024-10-10 09:37:35,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:39,980 - basicLogger - INFO - Total 20 events received
+2024-10-10 09:37:39,982 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 80, 'max_buy_price': 50.39, 'num_sell_events': 80, 'max_sell_price': 46.17, 'last_updated': '2024-10-10T09:37:35'}
+2024-10-10 09:37:40,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:44,962 - basicLogger - INFO - Total 29 events received
+2024-10-10 09:37:44,963 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 99, 'max_buy_price': 50.13, 'num_sell_events': 90, 'max_sell_price': 46.35, 'last_updated': '2024-10-10T09:37:40'}
+2024-10-10 09:37:45,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:49,958 - basicLogger - INFO - Total 11 events received
+2024-10-10 09:37:49,960 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:37:45'}
+2024-10-10 09:37:50,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:54,954 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:37:54,955 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:37:50'}
+2024-10-10 09:37:55,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:37:59,959 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:37:59,960 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:37:55'}
+2024-10-10 09:38:00,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:04,967 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:04,967 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:00'}
+2024-10-10 09:38:05,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:09,969 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:09,970 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:05'}
+2024-10-10 09:38:10,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:14,958 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:14,959 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:10'}
+2024-10-10 09:38:15,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:19,956 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:19,958 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:15'}
+2024-10-10 09:38:20,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:20,940 - basicLogger - INFO - Get stats request has started
+2024-10-10 09:38:20,941 - basicLogger - DEBUG - Statistics response: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:15'}
+2024-10-10 09:38:20,942 - basicLogger - INFO - Get stats request has completed
+2024-10-10 09:38:24,954 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:24,954 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:20'}
+2024-10-10 09:38:25,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:29,963 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:29,964 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:25'}
+2024-10-10 09:38:30,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:34,955 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:34,957 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:30'}
+2024-10-10 09:38:35,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:39,963 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:39,963 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:35'}
+2024-10-10 09:38:40,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:44,963 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:44,964 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:40'}
+2024-10-10 09:38:45,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:49,948 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:49,949 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:45'}
+2024-10-10 09:38:50,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:54,953 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:54,955 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:50'}
+2024-10-10 09:38:55,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:38:59,955 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:38:59,956 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:38:55'}
+2024-10-10 09:39:00,919 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:39:04,962 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:39:04,964 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:39:00'}
+2024-10-10 09:39:05,918 - basicLogger - INFO - Periodic processing has started
+2024-10-10 09:39:09,952 - basicLogger - INFO - Total 0 events received
+2024-10-10 09:39:09,953 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T09:39:05'}
+2024-10-10 12:04:27,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:04:34,226 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:04:34,227 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:27'}
+2024-10-10 12:04:37,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:04:42,326 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:04:42,328 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:37'}
+2024-10-10 12:04:42,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:04:47,343 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:04:47,344 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:42'}
+2024-10-10 12:04:47,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:04:52,349 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:04:52,350 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:47'}
+2024-10-10 12:04:52,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:04:57,341 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:04:57,343 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:52'}
+2024-10-10 12:04:57,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:02,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:02,333 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:04:57'}
+2024-10-10 12:05:02,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:07,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:07,332 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:02'}
+2024-10-10 12:05:07,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:12,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:12,331 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:07'}
+2024-10-10 12:05:12,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:17,344 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:17,346 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:12'}
+2024-10-10 12:05:17,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:22,344 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:22,345 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:17'}
+2024-10-10 12:05:22,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:27,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:27,331 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:22'}
+2024-10-10 12:05:27,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:32,332 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:32,333 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:27'}
+2024-10-10 12:05:32,431 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:37,350 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:37,357 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:32'}
+2024-10-10 12:05:37,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:42,357 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:42,358 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:37'}
+2024-10-10 12:05:42,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:47,386 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:47,387 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:42'}
+2024-10-10 12:05:47,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:52,338 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:52,339 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:47'}
+2024-10-10 12:05:52,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:05:57,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:05:57,330 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:52'}
+2024-10-10 12:05:57,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:02,330 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:02,332 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:05:57'}
+2024-10-10 12:06:02,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:07,354 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:07,356 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:02'}
+2024-10-10 12:06:07,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:12,349 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:12,350 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:07'}
+2024-10-10 12:06:12,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:17,333 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:17,334 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:12'}
+2024-10-10 12:06:17,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:22,323 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:22,325 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:17'}
+2024-10-10 12:06:22,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:27,326 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:27,326 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:22'}
+2024-10-10 12:06:27,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:32,336 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:32,338 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:27'}
+2024-10-10 12:06:32,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:37,324 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:37,325 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:32'}
+2024-10-10 12:06:37,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:42,334 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:42,335 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:37'}
+2024-10-10 12:06:42,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:47,327 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:47,328 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:42'}
+2024-10-10 12:06:47,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:52,326 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:52,328 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:47'}
+2024-10-10 12:06:52,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:06:57,327 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:06:57,329 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:52'}
+2024-10-10 12:06:57,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:02,339 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:02,340 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:06:57'}
+2024-10-10 12:07:02,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:07,323 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:07,324 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:07:02'}
+2024-10-10 12:07:07,430 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:12,327 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:12,328 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:07:07'}
+2024-10-10 12:07:12,429 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:17,329 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:17,330 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 19.48, 'num_sell_events': 100, 'max_sell_price': 45.26, 'last_updated': '2024-10-10T12:07:12'}
+2024-10-10 12:07:31,213 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:36,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:36,119 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:31'}
+2024-10-10 12:07:36,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:41,114 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:41,116 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:36'}
+2024-10-10 12:07:41,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:46,130 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:46,132 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:41'}
+2024-10-10 12:07:46,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:51,113 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:51,114 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:46'}
+2024-10-10 12:07:51,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:07:56,116 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:07:56,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:51'}
+2024-10-10 12:07:56,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:01,114 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:01,115 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:07:56'}
+2024-10-10 12:08:01,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:06,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:06,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:01'}
+2024-10-10 12:08:06,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:11,130 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:11,132 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:06'}
+2024-10-10 12:08:11,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:16,128 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:16,129 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:11'}
+2024-10-10 12:08:16,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:21,133 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:21,134 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:16'}
+2024-10-10 12:08:21,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:26,123 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:26,124 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:21'}
+2024-10-10 12:08:26,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:31,115 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:31,116 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:26'}
+2024-10-10 12:08:31,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:36,116 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:36,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:31'}
+2024-10-10 12:08:36,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:41,110 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:41,111 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:36'}
+2024-10-10 12:08:41,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:46,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:46,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:41'}
+2024-10-10 12:08:46,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:51,116 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:51,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:46'}
+2024-10-10 12:08:51,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:08:56,114 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:08:56,116 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:51'}
+2024-10-10 12:08:56,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:01,123 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:01,124 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:08:56'}
+2024-10-10 12:09:01,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:06,119 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:06,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:01'}
+2024-10-10 12:09:06,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:11,118 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:11,119 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:06'}
+2024-10-10 12:09:11,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:16,129 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:16,130 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:11'}
+2024-10-10 12:09:16,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:21,118 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:21,119 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:16'}
+2024-10-10 12:09:21,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:26,122 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:26,123 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:21'}
+2024-10-10 12:09:26,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:31,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:31,122 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:26'}
+2024-10-10 12:09:31,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:36,133 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:36,135 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:31'}
+2024-10-10 12:09:36,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:41,118 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:41,126 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:36'}
+2024-10-10 12:09:41,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:46,128 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:46,129 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:41'}
+2024-10-10 12:09:46,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:51,119 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:51,120 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:46'}
+2024-10-10 12:09:51,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:09:56,116 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:09:56,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:51'}
+2024-10-10 12:09:56,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:01,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:01,122 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:09:56'}
+2024-10-10 12:10:01,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:06,121 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:06,123 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:01'}
+2024-10-10 12:10:06,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:11,115 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:11,116 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:06'}
+2024-10-10 12:10:11,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:16,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:16,119 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:11'}
+2024-10-10 12:10:16,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:21,122 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:21,123 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:16'}
+2024-10-10 12:10:21,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:26,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:26,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:21'}
+2024-10-10 12:10:26,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:31,133 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:31,135 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:26'}
+2024-10-10 12:10:31,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:36,124 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:36,126 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:31'}
+2024-10-10 12:10:36,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:41,115 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:41,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:36'}
+2024-10-10 12:10:41,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:46,123 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:46,124 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:41'}
+2024-10-10 12:10:46,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:51,114 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:51,115 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:46'}
+2024-10-10 12:10:51,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:10:56,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:10:56,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:51'}
+2024-10-10 12:10:56,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:01,116 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:01,117 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:10:56'}
+2024-10-10 12:11:01,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:06,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:06,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:01'}
+2024-10-10 12:11:06,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:11,119 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:11,120 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:06'}
+2024-10-10 12:11:11,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:16,121 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:16,122 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:11'}
+2024-10-10 12:11:16,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:21,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:21,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:16'}
+2024-10-10 12:11:21,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:26,113 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:26,114 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:21'}
+2024-10-10 12:11:26,210 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:31,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:31,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:26'}
+2024-10-10 12:11:31,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:36,128 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:36,130 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:31'}
+2024-10-10 12:11:36,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:41,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:41,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:36'}
+2024-10-10 12:11:41,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:46,117 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:46,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:41'}
+2024-10-10 12:11:46,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:51,125 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:51,126 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:46'}
+2024-10-10 12:11:51,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:11:56,129 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:11:56,130 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:51'}
+2024-10-10 12:11:56,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:01,111 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:01,114 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:11:56'}
+2024-10-10 12:12:01,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:06,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:06,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:12:01'}
+2024-10-10 12:12:06,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:11,118 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:11,119 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:12:06'}
+2024-10-10 12:12:11,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:16,119 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:16,120 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:12:11'}
+2024-10-10 12:12:16,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:21,120 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:21,121 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:12:16'}
+2024-10-10 12:12:21,212 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:12:26,322 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:12:26,322 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:12:21'}
+2024-10-10 12:12:31,211 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:15:59,204 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:16:05,896 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:16:05,898 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:15:59'}
+2024-10-10 12:16:09,203 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:16:14,111 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:16:14,113 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:16:09'}
+2024-10-10 12:16:14,203 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:16:19,113 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:16:19,114 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:16:14'}
+2024-10-10 12:16:19,202 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:16:24,114 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:16:24,115 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:16:19'}
+2024-10-10 12:19:56,480 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:04,057 - basicLogger - INFO - Total 0 events received
+2024-10-10 12:20:04,059 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 0, 'max_buy_price': 0, 'num_sell_events': 0, 'max_sell_price': 0, 'last_updated': '2024-10-10T12:19:56'}
+2024-10-10 12:20:06,479 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:11,392 - basicLogger - INFO - Total 18 events received
+2024-10-10 12:20:11,393 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 10, 'max_buy_price': 45.8, 'num_sell_events': 8, 'max_sell_price': 49.47, 'last_updated': '2024-10-10T12:20:06'}
+2024-10-10 12:20:11,478 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:16,399 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:16,401 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 20, 'max_buy_price': 50.41, 'num_sell_events': 18, 'max_sell_price': 50.28, 'last_updated': '2024-10-10T12:20:11'}
+2024-10-10 12:20:16,477 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:21,760 - basicLogger - INFO - Total 21 events received
+2024-10-10 12:20:21,761 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 30, 'max_buy_price': 48.35, 'num_sell_events': 29, 'max_sell_price': 48.22, 'last_updated': '2024-10-10T12:20:16'}
+2024-10-10 12:20:26,478 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:31,380 - basicLogger - INFO - Total 41 events received
+2024-10-10 12:20:31,382 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 50, 'max_buy_price': 49.9, 'num_sell_events': 50, 'max_sell_price': 42.48, 'last_updated': '2024-10-10T12:20:26'}
+2024-10-10 12:20:31,478 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:36,388 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:36,389 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 60, 'max_buy_price': 35.23, 'num_sell_events': 60, 'max_sell_price': 40.48, 'last_updated': '2024-10-10T12:20:31'}
+2024-10-10 12:20:36,478 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:41,384 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:41,385 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 70, 'max_buy_price': 50.34, 'num_sell_events': 70, 'max_sell_price': 48.27, 'last_updated': '2024-10-10T12:20:36'}
+2024-10-10 12:20:41,477 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:46,394 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:46,396 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 80, 'max_buy_price': 47.49, 'num_sell_events': 80, 'max_sell_price': 50.17, 'last_updated': '2024-10-10T12:20:41'}
+2024-10-10 12:20:46,477 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:51,393 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:51,395 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 90, 'max_buy_price': 44.12, 'num_sell_events': 90, 'max_sell_price': 49.18, 'last_updated': '2024-10-10T12:20:46'}
+2024-10-10 12:20:51,479 - basicLogger - INFO - Periodic processing has started
+2024-10-10 12:20:56,386 - basicLogger - INFO - Total 20 events received
+2024-10-10 12:20:56,387 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-10T12:20:51'}
+2024-10-26 16:22:49,667 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:22:54,667 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:22:59,673 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:04,667 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:09,659 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:14,673 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:19,670 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:24,674 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:29,666 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:34,671 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:39,670 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:44,670 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:49,669 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:23:54,670 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:02,991 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:02,991 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:23:54'}
+2024-10-26 16:24:04,671 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:09,610 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:09,610 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:04'}
+2024-10-26 16:24:09,667 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:14,638 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:14,640 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:09'}
+2024-10-26 16:24:14,673 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:19,619 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:19,619 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:14'}
+2024-10-26 16:24:19,673 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:24,652 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:24,652 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:19'}
+2024-10-26 16:24:24,664 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:29,724 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:29,725 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:24'}
+2024-10-26 16:24:34,666 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:39,615 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:39,617 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:34'}
+2024-10-26 16:24:39,659 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:44,614 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:44,615 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:39'}
+2024-10-26 16:24:44,669 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:49,630 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:49,633 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:44'}
+2024-10-26 16:24:49,664 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:54,642 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:54,642 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:49'}
+2024-10-26 16:24:54,665 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:24:59,613 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:24:59,613 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:54'}
+2024-10-26 16:24:59,663 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:25:04,646 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:25:04,646 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:24:59'}
+2024-10-26 16:25:04,660 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:25:09,627 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:25:09,628 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:25:04'}
+2024-10-26 16:25:09,661 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:25:14,612 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:25:14,612 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:25:09'}
+2024-10-26 16:25:14,665 - basicLogger - INFO - Periodic processing has started
+2024-10-26 16:25:19,620 - basicLogger - INFO - Total 0 events received
+2024-10-26 16:25:19,620 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.5, 'num_sell_events': 100, 'max_sell_price': 50.25, 'last_updated': '2024-10-26T16:25:14'}
+2024-10-31 09:13:59,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:06,451 - basicLogger - INFO - Total 200 events received
+2024-10-31 09:14:06,453 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:13:59'}
+2024-10-31 09:14:09,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:14,256 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:14,256 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:09'}
+2024-10-31 09:14:19,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:24,255 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:24,257 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:19'}
+2024-10-31 09:14:29,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:34,191 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:34,193 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:29'}
+2024-10-31 09:14:34,235 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:39,222 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:39,223 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:34'}
+2024-10-31 09:14:39,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:44,260 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:44,262 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:39'}
+2024-10-31 09:14:49,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:14:54,249 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:14:54,250 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:49'}
+2024-10-31 09:14:59,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:04,215 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:04,216 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:14:59'}
+2024-10-31 09:15:04,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:09,266 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:09,267 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:04'}
+2024-10-31 09:15:14,237 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:19,207 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:19,208 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:14'}
+2024-10-31 09:15:19,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:24,254 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:24,255 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:19'}
+2024-10-31 09:15:29,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:34,221 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:34,222 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:29'}
+2024-10-31 09:15:34,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:39,266 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:39,267 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:34'}
+2024-10-31 09:15:44,236 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:49,271 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:49,272 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:44'}
+2024-10-31 09:15:54,240 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:15:59,269 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:15:59,270 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:15:54'}
+2024-10-31 09:16:04,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:09,241 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:09,242 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:04'}
+2024-10-31 09:16:09,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:14,262 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:14,264 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:09'}
+2024-10-31 09:16:19,240 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:24,276 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:24,277 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:19'}
+2024-10-31 09:16:29,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:34,245 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:34,247 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:29'}
+2024-10-31 09:16:39,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:44,241 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:44,242 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:39'}
+2024-10-31 09:16:44,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:49,237 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:49,239 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:44'}
+2024-10-31 09:16:49,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:16:54,241 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:16:54,242 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:49'}
+2024-10-31 09:16:59,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:04,440 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:04,440 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:16:59'}
+2024-10-31 09:17:09,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:14,235 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:14,236 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:09'}
+2024-10-31 09:17:14,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:19,240 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:19,241 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:14'}
+2024-10-31 09:17:19,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:24,211 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:24,212 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:19'}
+2024-10-31 09:17:24,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:29,237 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:29,239 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:24'}
+2024-10-31 09:17:29,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:34,230 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:34,231 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:29'}
+2024-10-31 09:17:34,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:39,225 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:39,226 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:34'}
+2024-10-31 09:17:39,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:44,228 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:44,229 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:39'}
+2024-10-31 09:17:44,235 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:49,239 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:49,240 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:44'}
+2024-10-31 09:17:54,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:17:59,259 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:17:59,260 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:17:54'}
+2024-10-31 09:18:04,237 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:09,240 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:09,241 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:04'}
+2024-10-31 09:18:14,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:19,265 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:19,266 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:14'}
+2024-10-31 09:18:24,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:29,249 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:29,251 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:24'}
+2024-10-31 09:18:34,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:39,231 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:39,233 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:34'}
+2024-10-31 09:18:39,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:44,254 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:44,255 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:39'}
+2024-10-31 09:18:49,237 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:18:54,261 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:18:54,262 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:49'}
+2024-10-31 09:18:59,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:04,252 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:04,254 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:18:59'}
+2024-10-31 09:19:09,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:14,233 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:14,235 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:09'}
+2024-10-31 09:19:14,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:19,241 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:19,243 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:14'}
+2024-10-31 09:19:24,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:29,229 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:29,230 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:24'}
+2024-10-31 09:19:29,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:34,242 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:34,244 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:29'}
+2024-10-31 09:19:39,235 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:44,228 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:44,230 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:39'}
+2024-10-31 09:19:44,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:49,240 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:49,240 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:44'}
+2024-10-31 09:19:49,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:19:54,257 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:19:54,258 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:49'}
+2024-10-31 09:19:59,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:04,256 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:04,258 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:19:59'}
+2024-10-31 09:20:09,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:14,234 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:14,235 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:09'}
+2024-10-31 09:20:14,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:19,245 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:19,247 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:14'}
+2024-10-31 09:20:24,234 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:29,240 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:29,242 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:24'}
+2024-10-31 09:20:34,240 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:39,227 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:39,228 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:34'}
+2024-10-31 09:20:39,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:44,236 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:44,237 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:39'}
+2024-10-31 09:20:44,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:49,233 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:49,235 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:44'}
+2024-10-31 09:20:49,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:20:54,257 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:20:54,258 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:49'}
+2024-10-31 09:20:59,236 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:04,221 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:04,222 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:20:59'}
+2024-10-31 09:21:04,235 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:09,224 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:09,226 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:04'}
+2024-10-31 09:21:09,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:14,224 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:14,225 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:09'}
+2024-10-31 09:21:14,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:19,250 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:19,251 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:14'}
+2024-10-31 09:21:24,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:29,254 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:29,255 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:24'}
+2024-10-31 09:21:34,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:39,232 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:39,233 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:34'}
+2024-10-31 09:21:39,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:44,273 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:44,273 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:39'}
+2024-10-31 09:21:49,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:54,216 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:54,217 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:49'}
+2024-10-31 09:21:54,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:21:59,244 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:21:59,245 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:21:54'}
+2024-10-31 09:22:04,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:09,238 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:09,239 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:04'}
+2024-10-31 09:22:14,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:19,203 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:19,205 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:14'}
+2024-10-31 09:22:19,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:24,234 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:24,236 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:19'}
+2024-10-31 09:22:29,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:34,249 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:34,250 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:29'}
+2024-10-31 09:22:39,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:44,246 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:44,248 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:39'}
+2024-10-31 09:22:49,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:54,226 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:54,228 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:49'}
+2024-10-31 09:22:54,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:22:59,229 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:22:59,230 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:54'}
+2024-10-31 09:22:59,238 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:04,227 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:04,228 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:22:59'}
+2024-10-31 09:23:04,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:09,264 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:09,265 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:23:04'}
+2024-10-31 09:23:14,235 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:19,205 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:19,206 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:23:14'}
+2024-10-31 09:23:19,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:24,250 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:24,251 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:23:19'}
+2024-10-31 09:23:29,234 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:34,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:39,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:44,239 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:51,162 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:51,163 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:23:44'}
+2024-10-31 09:23:54,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:23:59,266 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:23:59,267 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:23:54'}
+2024-10-31 09:24:04,237 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:09,273 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:09,274 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:04'}
+2024-10-31 09:24:14,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:19,239 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:19,240 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:14'}
+2024-10-31 09:24:24,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:29,312 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:29,313 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:24'}
+2024-10-31 09:24:34,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:39,261 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:39,263 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:34'}
+2024-10-31 09:24:44,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:49,264 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:49,264 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:44'}
+2024-10-31 09:24:54,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:24:59,280 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:24:59,281 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:24:54'}
+2024-10-31 09:25:04,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:25:09,249 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:25:09,250 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:25:04'}
+2024-10-31 09:25:14,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:25:24,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:25:29,242 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:25:34,241 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:25:39,237 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:29:35,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:29:41,930 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:29:41,931 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:29:35'}
+2024-10-31 09:29:45,104 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:29:50,108 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:29:50,109 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:29:45'}
+2024-10-31 09:29:55,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:00,134 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:00,135 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:29:55'}
+2024-10-31 09:30:05,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:10,097 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:10,098 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:05'}
+2024-10-31 09:30:10,106 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:15,088 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:15,090 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:10'}
+2024-10-31 09:30:15,113 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:20,101 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:20,103 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:15'}
+2024-10-31 09:30:20,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:25,097 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:25,098 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:20'}
+2024-10-31 09:30:25,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:30,125 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:30,127 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:25'}
+2024-10-31 09:30:35,104 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:40,113 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:40,114 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:35'}
+2024-10-31 09:30:45,105 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:30:50,151 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:30:50,153 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:45'}
+2024-10-31 09:30:55,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:00,108 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:00,109 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:30:55'}
+2024-10-31 09:31:05,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:10,088 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:10,088 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:05'}
+2024-10-31 09:31:10,113 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:15,086 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:15,087 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:10'}
+2024-10-31 09:31:15,105 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:20,111 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:20,113 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:15'}
+2024-10-31 09:31:20,115 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:25,080 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:25,081 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:20'}
+2024-10-31 09:31:25,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:30,137 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:30,139 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:25'}
+2024-10-31 09:31:35,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:40,110 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:40,111 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:35'}
+2024-10-31 09:31:45,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:50,112 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:50,113 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:45'}
+2024-10-31 09:31:50,116 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:31:55,113 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:31:55,115 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:31:50'}
+2024-10-31 09:32:00,110 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:05,084 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:32:05,085 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:32:00'}
+2024-10-31 09:32:05,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:10,078 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:32:10,079 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:32:05'}
+2024-10-31 09:32:10,116 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:15,089 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:32:15,091 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:32:10'}
+2024-10-31 09:32:15,110 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:17,310 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-31 09:32:29,390 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-31 09:32:30,113 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:35,021 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-31 09:32:47,069 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-31 09:32:50,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:32:54,979 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-31 09:33:07,049 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-31 09:33:10,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:33:14,993 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-31 09:33:19,839 - basicLogger - ERROR - Failed to get sell events. Status code: 500
+2024-10-31 09:33:20,104 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:33:24,956 - basicLogger - ERROR - Failed to get buy events. Status code: 500
+2024-10-31 09:33:35,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:33:40,138 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:33:40,139 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:33:35'}
+2024-10-31 09:33:45,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:33:50,233 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:33:50,234 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:33:45'}
+2024-10-31 09:33:55,111 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:00,104 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:00,105 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:33:55'}
+2024-10-31 09:34:00,116 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:05,191 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:05,192 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:00'}
+2024-10-31 09:34:10,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:15,165 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:15,167 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:10'}
+2024-10-31 09:34:20,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:25,139 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:25,140 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:20'}
+2024-10-31 09:34:30,113 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:35,118 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:35,120 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:30'}
+2024-10-31 09:34:40,106 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:45,141 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:45,143 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:40'}
+2024-10-31 09:34:50,105 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:34:55,144 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:34:55,144 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:34:50'}
+2024-10-31 09:35:00,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:05,105 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:05,107 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:00'}
+2024-10-31 09:35:05,112 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:10,131 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:10,133 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:05'}
+2024-10-31 09:35:15,116 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:20,132 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:20,132 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:15'}
+2024-10-31 09:35:25,107 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:30,131 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:30,131 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:25'}
+2024-10-31 09:35:35,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:40,124 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:40,125 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:35'}
+2024-10-31 09:35:45,103 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:35:50,125 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:35:50,126 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:45'}
+2024-10-31 09:35:55,105 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:00,115 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:00,116 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:35:55'}
+2024-10-31 09:36:05,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:10,123 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:10,124 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:05'}
+2024-10-31 09:36:15,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:20,150 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:20,152 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:15'}
+2024-10-31 09:36:25,102 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:30,120 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:30,122 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:25'}
+2024-10-31 09:36:35,101 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:40,116 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:40,118 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:35'}
+2024-10-31 09:36:45,110 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:36:50,130 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:36:50,132 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:45'}
+2024-10-31 09:36:55,102 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:00,102 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:37:00,103 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:36:55'}
+2024-10-31 09:37:00,109 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:05,143 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:37:05,145 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:37:00'}
+2024-10-31 09:37:10,110 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:15,298 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:37:15,299 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:37:10'}
+2024-10-31 09:37:20,103 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:25,137 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:37:25,138 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:37:20'}
+2024-10-31 09:37:30,112 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:35,114 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:37:40,108 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:04,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:11,197 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:11,198 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:04'}
+2024-10-31 09:45:14,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:19,274 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:19,275 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:14'}
+2024-10-31 09:45:24,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:29,270 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:29,272 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:24'}
+2024-10-31 09:45:34,252 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:39,266 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:39,267 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:34'}
+2024-10-31 09:45:44,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:49,299 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:49,300 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:44'}
+2024-10-31 09:45:54,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:45:59,261 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:45:59,263 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:45:54'}
+2024-10-31 09:46:04,256 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:09,307 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:46:09,308 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:46:04'}
+2024-10-31 09:46:14,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:19,407 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:46:19,408 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 100, 'max_buy_price': 50.4, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:46:14'}
+2024-10-31 09:46:24,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:29,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:34,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:39,254 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:44,257 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:49,258 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:54,251 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:46:59,255 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:04,248 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:09,252 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:14,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:19,244 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:24,256 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:31,173 - basicLogger - INFO - Total 4 events received
+2024-10-31 09:47:31,175 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 104, 'max_buy_price': 49.29, 'num_sell_events': 100, 'max_sell_price': 50.36, 'last_updated': '2024-10-31T09:47:24'}
+2024-10-31 09:47:34,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:39,288 - basicLogger - INFO - Total 9 events received
+2024-10-31 09:47:39,289 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 108, 'max_buy_price': 36.19, 'num_sell_events': 105, 'max_sell_price': 50.46, 'last_updated': '2024-10-31T09:47:34'}
+2024-10-31 09:47:44,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:49,301 - basicLogger - INFO - Total 16 events received
+2024-10-31 09:47:49,302 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 116, 'max_buy_price': 50.21, 'num_sell_events': 113, 'max_sell_price': 45.11, 'last_updated': '2024-10-31T09:47:44'}
+2024-10-31 09:47:54,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:47:59,250 - basicLogger - INFO - Total 16 events received
+2024-10-31 09:47:59,251 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 125, 'max_buy_price': 50.23, 'num_sell_events': 120, 'max_sell_price': 45.13, 'last_updated': '2024-10-31T09:47:54'}
+2024-10-31 09:48:04,257 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:09,270 - basicLogger - INFO - Total 6 events received
+2024-10-31 09:48:09,271 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:04'}
+2024-10-31 09:48:14,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:21,189 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:48:21,191 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:14'}
+2024-10-31 09:48:24,253 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:29,294 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:48:29,295 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:24'}
+2024-10-31 09:48:34,258 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:39,463 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:48:39,464 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:34'}
+2024-10-31 09:48:44,255 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:49,318 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:48:49,319 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:44'}
+2024-10-31 09:48:54,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:48:59,260 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:48:59,261 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:48:54'}
+2024-10-31 09:49:04,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:09,315 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:49:09,316 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:49:04'}
+2024-10-31 09:49:14,246 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:19,282 - basicLogger - INFO - Total 0 events received
+2024-10-31 09:49:19,283 - basicLogger - DEBUG - Updated stats: {'num_buy_events': 126, 'max_buy_price': 17.34, 'num_sell_events': 125, 'max_sell_price': 41.27, 'last_updated': '2024-10-31T09:49:14'}
+2024-10-31 09:49:24,249 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:34,255 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:39,253 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:44,247 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:49,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:54,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:49:59,243 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:50:04,245 - basicLogger - INFO - Periodic processing has started
+2024-10-31 09:50:09,250 - basicLogger - INFO - Periodic processing has started

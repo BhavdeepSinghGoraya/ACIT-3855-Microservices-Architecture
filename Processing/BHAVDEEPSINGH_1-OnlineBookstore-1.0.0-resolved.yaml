@@ -1,0 +1,56 @@
+openapi: 3.0.0
+info:
+  title: OnlineBookstore API
+  description: This API receives buying and selling events
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+  version: 1.0.0
+tags:
+- name: users
+  description: Operations available to user of the site
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Book Buy and Book Sell processsed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of book buy/sell events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/EventStats'
+        '400':
+          description: Invalid request
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    EventStats:
+      required: 
+        - num_buy_events
+        - max_buy_price
+        - num_sell_events
+        - max_sell_price
+      properties:
+        num_buy_events:
+          type: integer
+          example: 50000
+        max_buy_price:
+          type: number
+          example: 45.99
+        num_sell_events:
+          type: integer
+          example: 45000
+        max_sell_price: 
+          type: number
+          example: 39.99
+      type: object

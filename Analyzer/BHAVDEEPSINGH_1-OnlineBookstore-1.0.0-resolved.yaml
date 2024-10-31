@@ -1,0 +1,179 @@
+openapi: 3.0.0
+info:
+  title: Audit
+  description: This API provides audit info
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+  version: 1.0.0
+tags:
+- name: users
+  description: Operations available to user of the site
+paths:
+  /books/buy:
+    get: 
+      summary: gets new book buy event from history
+      operationId: app.get_books_buy_event
+      description: Gets book buy event from the event store
+      parameters: 
+        - name: index
+          in: query
+          description: Gets the buy event at the index in the event store
+          schema: 
+            type: integer
+            example: 100
+      responses: 
+        '200':
+          description: Successfully returned a buy event
+          content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/BuyingEvent'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /books/sell:
+    get: 
+      summary: gets a book sell event from history
+      operationId: app.get_books_sell_event
+      description: Gets book sell event from the event store
+      parameters: 
+        - name: index
+          in: query
+          description: Gets the sell event at the index in event store
+          schema: 
+            type: integer
+            example: 100
+      responses: 
+        '200':
+          description: Successfully returned a book sell event
+          content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/SellingEvent'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string 
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets the stats of the history events
+      responses:
+        '200':
+          description: Successfully returned a event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/EventStats'                                     
+components:
+  schemas:
+    BuyingEvent:
+      required:
+      - book_id
+      - name
+      - order_id
+      - price
+      - sold
+      - user_id
+      type: object
+      properties:
+        order_id:
+          type: string
+          format: uuid
+        book_id:
+          type: integer
+          example: 4856
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Atomic Habits
+        price:
+          type: number
+          format: float
+          example: 9.99
+        sold:
+          type: boolean
+          example: true
+        trace_id:
+          type: string
+          format: uuid
+    SellingEvent:
+      required:
+      - book_id
+      - genre
+      - listing_date
+      - name
+      - price
+      - user_id
+      type: object
+      properties:
+        book_id:
+          type: integer
+          example: 3168
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: The Psychology of Money
+        listing_date:
+          type: string
+          format: date-time
+          example: 2024-06-29T09:12:33.001Z
+        price:
+          type: number
+          format: float
+          example: 19.99
+        genre:
+          type: string
+          example: Non-Fiction
+        trace_id:
+          type: string
+          format: uuid
+    EventStats:
+      required: 
+        - num_buy_events
+        - num_sell_events
+      properties:
+        num_buy_events:
+          type: integer
+          example: 100
+        num_sell_events:
+          type: integer
+          example: 100

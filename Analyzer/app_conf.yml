@@ -1,0 +1,5 @@
+version: 1
+events:
+  hostname: acit-3855-mysql-kafka.francecentral.cloudapp.azure.com
+  port: 9092
+  topic: events

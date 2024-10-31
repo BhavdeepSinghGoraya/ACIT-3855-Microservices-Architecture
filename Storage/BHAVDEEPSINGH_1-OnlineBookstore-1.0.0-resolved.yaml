@@ -1,0 +1,160 @@
+openapi: 3.0.0
+info:
+  title: OnlineBookstore API
+  description: This API receives buying and selling events
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+  version: 1.0.0
+tags:
+- name: users
+  description: Operations available to user of the site
+paths:
+  /books/buy:
+    get: 
+      tags: 
+        - user
+      summary: gets new book buy event
+      operationId: app.get_books_buy
+      description: Gets book buy event added after a timestamp
+      parameters: 
+        - name: start_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema: 
+            type: string
+            format: date-time
+            example: 2024-06-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema: 
+            type: string
+            format: date-time
+            example: 2024-06-29T09:12:33.001Z
+      responses: 
+        '200':
+          description: Successfully returned a list of book buy events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/buying'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /books/sell:
+    get: 
+      tags: 
+        - books
+      summary: gets new book sell event
+      operationId: app.get_books_sell
+      description: Gets book sell event added after a timestamp
+      parameters: 
+        - name: start_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema: 
+            type: string
+            format: date-time
+            example: 2024-06-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema: 
+            type: string
+            format: date-time
+            example: 2024-06-29T09:12:33.001Z
+      responses: 
+        '200':
+          description: Successfully returned a list of book sell events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/selling'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    buying:
+      required:
+      - book_id
+      - name
+      - order_id
+      - price
+      - sold
+      - user_id
+      type: object
+      properties:
+        order_id:
+          type: string
+          format: uuid
+        book_id:
+          type: integer
+          example: 4856
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Atomic Habits
+        price:
+          type: number
+          format: float
+          example: 9.99
+        sold:
+          type: boolean
+          example: true
+        trace_id:
+          type: string
+          format: uuid
+    selling:
+      required:
+      - book_id
+      - genre
+      - listing_date
+      - name
+      - price
+      - user_id
+      type: object
+      properties:
+        book_id:
+          type: integer
+          example: 3168
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: The Psychology of Money
+        listing_date:
+          type: string
+          format: date-time
+          example: 2024-06-29T09:12:33.001Z
+        price:
+          type: number
+          format: float
+          example: 19.99
+        genre:
+          type: string
+          example: Non-Fiction
+        trace_id:
+          type: string
+          format: uuid

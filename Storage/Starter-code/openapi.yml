@@ -1,0 +1,108 @@
+openapi: 3.0.0
+info:
+  description: This API receives reading events from medical devices
+  version: "1.0.0"
+  title: Reading API
+  contact:
+    email: mmulder10@bcit.ca
+tags:
+  - name: devices
+    description: Operations available to medical devices
+paths:
+  /blood-pressure:
+    post:
+      tags:
+        - devices
+      summary: reports a blood pressure reading
+      operationId: app.report_blood_pressure_reading
+      description: Adds a new blood pressure reading to the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BloodPressureReading'
+        description: Reading item to add
+
+  /heart-rate:
+    post:
+      tags:
+        - devices
+      summary: reports a heart rate reading
+      operationId: app.report_heart_rate_reading
+      description: Adds a new heart rate reading to the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HeartRateReading'
+        description: Reading item to add
+
+components:
+  schemas:
+    BloodPressureReading:
+      required:
+      - patient_id
+      - device_id
+      - blood_pressure
+      - timestamp
+      properties:
+        patient_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        device_id:
+          type: string
+          example: A12345
+        blood_pressure:
+          $ref: '#/components/schemas/BloodPressure'
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+      type: object
+
+    HeartRateReading:
+      required:
+      - patient_id
+      - device_id
+      - heart_rate
+      - timestamp
+      properties:
+        patient_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        device_id:
+          type: string
+          example: A12345
+        heart_rate:
+          type: integer
+          example: 85
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+      type: object
+
+    BloodPressure:
+      required:
+      - systolic
+      - diastolic
+      properties:
+        systolic:
+          type: integer
+          example: 120
+        diastolic:
+          type: integer
+          example: 80
+      type: object
