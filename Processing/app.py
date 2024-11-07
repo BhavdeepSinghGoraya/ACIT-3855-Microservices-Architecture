@@ -119,4 +119,4 @@ app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml", strict_valida
 if __name__ == "__main__":
     # run our standalone gevent server
     init_scheduler()
-    app.run(port=8100)
+    app.run(host="0.0.0.0",port=8100)
