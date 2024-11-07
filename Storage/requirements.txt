@@ -4,3 +4,4 @@ SQLAlchemy==2.0.35
 mysql-connector-python==9.0.0
 PyMySQL==1.1.1
 pykafka==2.8.0
+Flask==3.0.3
