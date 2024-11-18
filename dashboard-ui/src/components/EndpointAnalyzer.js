@@ -6,6 +6,7 @@ export default function EndpointAnalyzer(props) {
     const [log, setLog] = useState(null);
     const [error, setError] = useState(null)
 	const rand_val = Math.floor(Math.random() * 100); // Get a random event from the event store
+    const [index, setIndex] = useState(null);
 
     const getAnalyzer = () => {
         fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:8110/books/${props.endpoint}?index=${rand_val}`)
@@ -13,6 +14,7 @@ export default function EndpointAnalyzer(props) {
             .then((result)=>{
 				console.log("Received Analyzer Results for " + props.endpoint)
                 setLog(result);
+                setIndex(rand_val);
                 setIsLoaded(true);
             },(error) =>{
                 setError(error)
@@ -32,7 +34,7 @@ export default function EndpointAnalyzer(props) {
         
         return (
             <div>
-                <h3>{props.endpoint}-{rand_val}</h3>
+                <h3>{props.endpoint}-{index}</h3>
                 {JSON.stringify(log)}
             </div>
         )
