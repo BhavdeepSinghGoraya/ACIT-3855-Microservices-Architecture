@@ -33,7 +33,12 @@ db = app_config['datastore']['db']
 
 # DB_ENGINE = create_engine("sqlite:///bookstore.sqlite")
 
-DB_ENGINE = create_engine(f'mysql+pymysql://{user}:{password}@{hostname}:{port}/{db}')
+DB_ENGINE = create_engine(
+    f'mysql+pymysql://{user}:{password}@{hostname}:{port}/{db}',
+    pool_size=10,          
+    pool_recycle=1800,     
+    pool_pre_ping=True     
+)
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 logger.info(f"Connecting to db, hostname={hostname}, port={port}")
