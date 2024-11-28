@@ -1,0 +1,80 @@
+openapi: 3.0.0
+info:
+  description: This API provides event anomalies
+  version: "1.0.0"
+  title: Anomaly API
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+
+paths:
+  /anomalies:
+    get:
+      summary: Gets the event anomalies
+      operationId: app.get_anomalies
+      description: Gets the list of event anomalies from newest to oldest
+      parameters:
+        - name: anomaly_type
+          in: query
+          description: The type of anomaly to retrieve
+          schema:
+            type: string
+            example: TooHigh
+      responses:
+        '200':
+          description: Successfully returned a list of anomalies of the given type
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Anomaly'
+        '400':
+          description: Invalid Anomaly Type
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Anomalies do not exist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    Anomaly:
+      required:
+      - event_id
+      - trace_id
+      - event_type
+      - anomaly_type
+      - description
+      - timestamp
+      properties:
+        event_id:
+          type: string
+          example: A1234
+        trace_id:
+          type: string
+          example: 12345
+        event_type:
+          type: string
+          example: EVENT1
+        anomaly_type:
+          type: string
+          example: Too High
+        description:
+          type: string
+          example: The value is too high
+        timestamp:
+          type: string
+          example: 2024-11-14 11:22:33
+      type: object
+

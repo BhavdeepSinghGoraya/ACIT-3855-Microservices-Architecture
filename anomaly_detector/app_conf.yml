@@ -1,0 +1,10 @@
+version: 1
+datastore: 
+  filename: data.json
+events:
+  hostname: acit-3855-mysql-kafka.francecentral.cloudapp.azure.com
+  port: 9092
+  topic: events
+thresholds:
+  high_value: 90
+  low_value: 4
