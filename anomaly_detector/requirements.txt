@@ -1,0 +1,6 @@
+connexion[flask]==3.1.0
+swagger_ui_bundle==1.1.0
+Flask==3.0.3
+uvicorn==0.30.6
+PyMySQL==1.1.1
+pykafka==2.8.0
