@@ -10,7 +10,7 @@ export default function AppStats() {
 
     // Fetch Stats
     const getStats = () => {
-        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:8100/stats`)
+        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:/processing/stats`)
             .then((res) => res.json())
             .then(
                 (result) => {
@@ -28,7 +28,7 @@ export default function AppStats() {
     // Fetch Anomalies
     const getAnomalies = () => {
         // Fetch 'Too Low' anomalies for buy events
-        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:8120/anomalies?anomaly_type=TooLow`)
+        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com/anomaly_detector/anomalies?anomaly_type=TooLow`)
             .then((res) => res.json())
             .then((result) => {
                 console.log("Received Low Anomalies");
@@ -43,7 +43,7 @@ export default function AppStats() {
             .catch((error) => setError(error));
 
         // Fetch 'Too High' anomalies for sell events
-        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:8120/anomalies?anomaly_type=TooHigh`)
+        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com/anomaly_detector/anomalies?anomaly_type=TooHigh`)
             .then((res) => res.json())
             .then((result) => {
                 console.log("Received High Anomalies");

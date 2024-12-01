@@ -75,7 +75,7 @@ def book_sell(body):
     return NoContent, 201
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml",strict_validation=True,validate_responses=True)
+app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml", base_path="/receiver", strict_validation=True,validate_responses=True)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0",port=8080)

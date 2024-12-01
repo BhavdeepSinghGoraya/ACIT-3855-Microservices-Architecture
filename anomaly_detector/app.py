@@ -119,7 +119,7 @@ def get_anomalies(anomaly_type):
 
 # Connexion app setup
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml", strict_validation=True, validate_responses=True)
+app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml", base_path="/anomaly_detector", strict_validation=True, validate_responses=True)
 app.add_middleware(
     CORSMiddleware,
     position=MiddlewarePosition.BEFORE_EXCEPTION,
@@ -128,6 +128,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 if __name__ == "__main__":
     t1 = Thread(target=find_anomalies)

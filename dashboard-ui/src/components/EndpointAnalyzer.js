@@ -9,7 +9,7 @@ export default function EndpointAnalyzer(props) {
     const [index, setIndex] = useState(null);
 
     const getAnalyzer = () => {
-        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com:8110/books/${props.endpoint}?index=${rand_val}`)
+        fetch(`http://acit-3855-mysql-kafka.francecentral.cloudapp.azure.com/analyzer/books/${props.endpoint}?index=${rand_val}`)
             .then(res => res.json())
             .then((result)=>{
 				console.log("Received Analyzer Results for " + props.endpoint)
