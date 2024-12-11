@@ -74,6 +74,11 @@ def book_sell(body):
     logger.info(f'Returned event sell response (Id: {trace_id}) with status 201')
     return NoContent, 201
 
+def get_check():
+    """Check if the service is healthy."""
+    return NoContent, 200
+
+
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("BHAVDEEPSINGH_1-OnlineBookstore-1.0.0-resolved.yaml", base_path="/receiver", strict_validation=True,validate_responses=True)
 

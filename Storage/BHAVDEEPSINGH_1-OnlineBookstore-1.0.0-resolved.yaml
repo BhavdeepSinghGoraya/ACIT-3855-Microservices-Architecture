@@ -89,6 +89,18 @@ paths:
                 properties:
                   message:
                     type: string
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_event_stats
+      description: Gets the stats of the history events
+      responses:
+        '200':
+          description: Successfully returned a event
+          content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/Stats'
 components:
   schemas:
     buying:
@@ -158,3 +170,14 @@ components:
         trace_id:
           type: string
           format: uuid
+    Stats:
+      required: 
+        - num_buy_events
+        - num_sell_events
+      properties:
+        num_buy_events:
+          type: integer
+          example: 100
+        num_sell_events:
+          type: integer
+          example: 100

@@ -1,0 +1,48 @@
+openapi: 3.0.0
+info:
+  title: Check Service API
+  description: Provides the status of your services
+  version: "1.0.0"
+  contact:
+    email: bhavdeepsingh@my.bcit.ca
+paths:
+  /check:
+    get:
+      operationId: app.get_checks
+      responses:
+        "200":
+          description: OK - stats returned
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Check"
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    Check:
+      required:
+        - receiver
+        - storage
+        - processing
+        - analyzer
+      properties:
+        receiver:
+          type: string
+          example: "Healthy"
+        storage:
+          type: string
+          example: "Storage has 6 BP and 4 HR events"
+        processing:
+          type: string
+          example: "Processing has 6 BP and 4 HR events"
+        analyzer:
+          type: string
+          example: "Analyzer has 10 BP and 4 HR events"

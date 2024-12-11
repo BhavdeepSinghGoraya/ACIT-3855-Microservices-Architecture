@@ -183,6 +183,27 @@ def process_messages():
         consumer.commit_offsets()
         logger.info(f"Processed and committed offset for message with trace id {payload.get('trace_id')}")
 
+def get_event_stats():
+    """ Gets event stats in History """
+    session = DB_SESSION()
+    logger.info("Retrieving event stats")
+
+    try:
+        num_buy_events = session.query(BookBuy).count()
+        num_sell_events = session.query(BookSell).count()
+
+        session.close()
+
+        return {
+                    "num_buy_events": num_buy_events,
+                    "num_sell_events": num_sell_events
+                }, 200
+            
+    except:
+        logger.error("No more messages found")
+    
+    logger.error("Could not event stats")
+    return { "message": "Not Found"}, 404
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
